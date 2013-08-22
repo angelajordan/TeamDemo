@@ -1,0 +1,26 @@
+@import url(bootstrap.css);
+
+
+body {
+       background-image: url('https://f.cloud.github.com/assets/5033768/955930/d079312c-0433-11e3-8b99-095adfee09f9.jpg'); 
+} 
+
+h1 {
+    color:GreenYellow;
+    text-align:Center;
+    font-family:"Courier New";
+    
+}
+
+h2 {
+   color:Cyan;
+   font-family:"Courier New";
+   background-color:RoyalBlue;
+}
+  
+p  {
+     color:Navy;
+    text-align:Center;
+    font-family:"Courier New";
+   background-color:GreenYellow;
+}
